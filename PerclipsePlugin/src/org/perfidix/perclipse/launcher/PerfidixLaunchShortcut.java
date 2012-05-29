@@ -392,7 +392,7 @@ public class PerfidixLaunchShortcut implements ILaunchShortcut {
         final ILaunchConfigurationType configType =
                 getPerfidixLaunchConfigType();
         return configType.newInstance(null, getLaunchManager()
-                .generateUniqueLaunchConfigurationNameFrom(name));
+                .generateLaunchConfigurationName(name));
     }
 
     /**
