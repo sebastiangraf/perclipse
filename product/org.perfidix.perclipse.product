@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?pde version="3.5"?>
+
+<product name="Perclipse Product" uid="org.perfidix.perclipse.product" id="org.perfidix.perclipse.plugin.org_perfidix_perclipse_product" application="org.perfidix.perclipse.plugin.application" version="1.0.0" useFeatures="true" includeLaunchers="true">
+
+   <configIni use="default">
+   </configIni>
+
+   <launcherArgs>
+      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts</vmArgsMac>
+   </launcherArgs>
+
+   <plugins>
+   </plugins>
+
+   <features>
+      <feature id="org.eclipse.rcp" version="3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272"/>
+      <feature id="org.perfidix.perclipse.feature" version="1.0.0.qualifier"/>
+   </features>
+
+
+</product>
