@@ -71,7 +71,7 @@ and limitations under the License.
    </license>
 
    <url>
-      <update label="http://perfidix.disy.inf.uni-konstanz.de/updateSite" url="http://perfidix.disy.inf.uni-konstanz.de/updateSite"/>
+      <update label="Perclipse Update Site" url="http://disy.github.com/perclipse/"/>
    </url>
 
    <plugin
