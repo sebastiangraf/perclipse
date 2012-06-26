@@ -4,7 +4,7 @@ To make perfidix (http://www.perfidix.org) easy usable, an Eclipse Plugin is pro
 
 ##How to install Perclipse
 
-* Install over Eclipse Marketplace, just search for "Perclipse" OR
+* Install over Eclipse Marketplace, just search for [Perclipse](http://marketplace.eclipse.org/content/perclipse-perfidix-eclipse-plugin) OR
 * Get the lastest jar over Github and install by hand OR
 * Get the latest release over the Update Site (http://disy.github.com/perclipse/)
 
