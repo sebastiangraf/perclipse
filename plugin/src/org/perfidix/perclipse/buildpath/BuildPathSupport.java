@@ -52,7 +52,7 @@ public final class BuildPathSupport {
      * the plug-ins build path.
      */
     public static final String JAR_NAME =
-            "perfidix-3.6.6.jar";
+            "perfidix-3.6.8.jar";
 
     /**
      * The constructor.
