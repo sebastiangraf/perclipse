@@ -184,7 +184,7 @@ public class PerfidixLaunchConfiguration
         runConfig.setWorkingDirectory(workingDirName);
         runConfig.setEnvironment(envp);
 
-        final Map<?, ?> vmAttributesMap =
+        final Map<String, Object> vmAttributesMap =
                 getVMSpecificAttributesMap(configuration);
         runConfig.setVMSpecificAttributesMap(vmAttributesMap);
 
