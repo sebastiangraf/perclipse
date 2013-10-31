@@ -3,7 +3,7 @@
    <description name="Perclipse Update Site" url="http://disy.github.com/perclipse/">
       The Perclipse plug-in, created by the Distributed Systems Group, University of Konstanz, allows the user to bench several methods to compare each other. It supplies multiple runs option and several meters. Perclipse is similar designed to the JUnit 4.x eclipse plug-in and uses so annotations.
    </description>
-   <feature url="features/org.perfidix.perclipse.feature_2.1.0.jar" id="org.perfidix.perclipse.feature" version="2.1.0">
+   <feature url="features/org.perfidix.perclipse.feature_2.2.0.jar" id="org.perfidix.perclipse.feature" version="2.2.0">
       <category name="Perclipse the Perfidix plug-in"/>
    </feature>
    <category-def name="Perclipse the Perfidix plug-in" label="Perclipse the Perfidix plug-in">
