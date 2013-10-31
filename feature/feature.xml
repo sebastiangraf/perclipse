@@ -2,7 +2,7 @@
 <feature
       id="org.perfidix.perclipse.feature"
       label="Perclipse - The Perfidix plug-in"
-      version="2.2.0"
+      version="2.2.1.qualifier"
       provider-name="Distributed Systems Group, University of Konstanz, Germany"
       plugin="org.perfidix.perclipse.plugin">
 
